@@ -1,0 +1,18 @@
+{
+  "nama": "Roby Baiaturridwan",
+  "jk": "Laki-laki",
+  "listAlamat": [
+    {
+      "namaAlamat": "Techpolitan",
+      "alamatLengkap": "Jl. Grand Boulevard BSD City,",
+      "namaKota": "Kab. Tangerang",
+      "kodePos": "15345"
+    },
+    {
+      "namaAlamat": "Rumah",
+      "alamatLengkap": "Cimalaka",
+      "namaKota": "Kab. Sumedang",
+      "kodePos": "45353"
+    }
+  ]
+}

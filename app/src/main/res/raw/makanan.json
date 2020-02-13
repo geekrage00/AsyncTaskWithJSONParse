@@ -1,0 +1,31 @@
+[
+  {
+    "namaMenu": "Promo",
+    "data": [
+      {
+        "nama": "Nasi+Ayam Goreng",
+        "harga": 25000
+      },
+      {
+        "nama": "Nasi+Ayam Kremes",
+        "harga": 20000
+      }
+    ],
+    "gambarMenu": -700017
+  },
+
+  {
+    "namaMenu": "A La Carte",
+    "data": [
+      {
+        "nama": "Ayam Goreng",
+        "harga": 15000
+      },
+      {
+        "nama": "Ayam Kremes",
+        "harga": 10000
+      }
+    ],
+    "gambarMenu": -700077
+  }
+]
